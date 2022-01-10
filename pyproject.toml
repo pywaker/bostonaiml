@@ -8,6 +8,11 @@ authors = ["Diwaker Ghimire <dwkrghm@pm.me>"]
 python = "~3.9"
 jupyter = "^1.0.0"
 pendulum = "^2.1.2"
+scikit-learn = "^1.0.2"
+pandas = "^1.3.5"
+matplotlib = "^3.5.1"
+seaborn = "^0.11.2"
+graphviz = "^0.19.1"
 
 [tool.poetry.dev-dependencies]
 
